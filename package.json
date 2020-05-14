@@ -1,0 +1,23 @@
+{
+  "name": "ts-tutorial-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDoman/TS-tutorial-advanced.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GDoman/TS-tutorial-advanced/issues"
+  },
+  "homepage": "https://github.com/GDoman/TS-tutorial-advanced#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
